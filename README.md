@@ -1,4 +1,4 @@
-# WCS_challenge_git_merge
+REMOTE
 Challenge
     Create a new repo on GitHub, by checking "Initialize this repository with a README".
     Also in GitHub, write a few lines of text in thereadme.txt.
