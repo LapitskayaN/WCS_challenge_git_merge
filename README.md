@@ -1,3 +1,4 @@
+
   LOCAL
 Challenge
     Create a new repo on GitHub, by checking "Initialize this repository with a README".
@@ -12,4 +13,5 @@ Challenge
     In GitHub, open the readme.txt and make sure "LOCAL" is now on the first line. Well done!
     Copy the contents of your Terminal from your first git pull (step 6 of these instructions) to the end and glue it in a pastebin.
     Share the pastebin link created as a solution to this challenge.
-    THE END
+   
+
